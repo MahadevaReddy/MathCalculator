@@ -1,0 +1,14 @@
+{
+  "name": "instrumentation",
+  "version": "1.0.0",
+  "description": "Sample eG Instrumentation for Hybrid Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Instrumentation"
+  ],
+  "author": "Mahadeva Reddy",
+  "license": "ISC"
+}
