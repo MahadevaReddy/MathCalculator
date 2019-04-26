@@ -6,5 +6,5 @@ module.exports.add = function (arg0,success,error) {
 };
 
 module.exports.substract = function (arg0, success, error) {
-    exec(success, error, 'Instrumentation', 'add', [arg0]);
+    exec(success, error, 'Instrumentation', 'substract', [arg0]);
 };
